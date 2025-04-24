@@ -8,7 +8,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = 'ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН'
+TOKEN = '7511052217:AAGaPifauOv5AAq8bUUzIIMyK89di73a8lc'
 
 # Вопросы и этапы
 questions = [
